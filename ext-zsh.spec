@@ -39,23 +39,23 @@ META-package for install and configure Zsh.
 - UPD: License.
 - UPD: "zshrc.grml".
 
-* Thu Jun 25 2020 Package Store <pkgstore@pm.me> - 1.0.5-100
+* Thu Jun 25 2020 Package Store <kitsune.solar@gmail.com> - 1.0.5-100
 - NEW: v1.0.5.
 
-* Mon Dec 02 2019 Package Store <pkgstore@pm.me> - 1.0.4-100
+* Mon Dec 02 2019 Package Store <kitsune.solar@gmail.com> - 1.0.4-100
 - NEW: v1.0.4.
 
-* Mon Nov 18 2019 Package Store <pkgstore@pm.me> - 1.0.3-100
+* Mon Nov 18 2019 Package Store <kitsune.solar@gmail.com> - 1.0.3-100
 - NEW: v1.0.3.
 - UPD: zshrc file.
 
-* Mon Nov 11 2019 Package Store <pkgstore@pm.me> - 1.0.2-100
+* Mon Nov 11 2019 Package Store <kitsune.solar@gmail.com> - 1.0.2-100
 - NEW: v1.0.2.
 - UPD: zshrc file.
 
-* Thu Oct 10 2019 Package Store <pkgstore@pm.me> - 1.0.1-100
+* Thu Oct 10 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-100
 - NEW: v1.0.1.
 - UPD: zshrc file.
 
-* Thu Jul 18 2019 Package Store <pkgstore@pm.me> - 1.0.0-100
+* Thu Jul 18 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-100
 - Initial build.
